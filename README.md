@@ -1,5 +1,5 @@
-# UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!
-# Revalct Calculator 
+# Revalct Calculator (UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!)
+
 
 ## About this project
 ### Details | Comments
