@@ -13,6 +13,8 @@ body {
   border: 2px solid #DDD;
   background-color: #EEE;
   color: #333;
+  -webkit-transition: font-size 0.4s;
+  transition: font-size 0.4s;
 }
 
 .button-column-3 {
@@ -28,6 +30,12 @@ body {
 .button-column-1 {
   width: 25%;
   float: left;
+}
+
+.button:hover {
+  font-size: 32px;
+  color: #EEE;
+  background-color: #333;
 }
 
 .result {
