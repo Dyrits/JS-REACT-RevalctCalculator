@@ -1,3 +1,15 @@
+# UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE! > Revalct Calculator 
+
+## About this project
+### Details | Comments
+This project is my first project using React.
+The calculator was made following a course on Udemy but was a bit improved from the original version. 
+
+I've already created a more interesting calculator (from scratch) with Vanilla JS as part of The Odin Project's Curriculum, not using `eval()` which can be found [here](https://github.com/Dyrits/WEBDEV-TOP-RTC).  
+  
+
+# REACT
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
