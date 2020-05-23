@@ -1,4 +1,4 @@
-## (UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!) 
+## `(UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!)`
 # Revalct Calculator 
 
 ## About this project
