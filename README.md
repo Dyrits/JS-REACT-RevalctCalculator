@@ -9,7 +9,8 @@ UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!
 This project is my first project using React.
 The calculator was made following a course on Udemy but was a bit improved from the original version. 
 
-I've already created a more interesting calculator (from scratch) with Vanilla JS as part of [The Odin Project's Curriculum](https://github.com/TheOdinProject/curriculum), not using `eval()` which can be found [here](https://github.com/Dyrits/WEBDEV-TOP-RTC).  
+I've already created a more interesting calculator (from scratch) with Vanilla JS as part of [The Odin Project's Curriculum](https://github.com/TheOdinProject/curriculum), not using `eval()`.  
+This other project can be found [here](https://github.com/Dyrits/WEBDEV-TOP-RTC).  
    
 ---
    
