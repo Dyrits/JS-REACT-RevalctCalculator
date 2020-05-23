@@ -1,6 +1,10 @@
-# *(UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!)* Revalct Calculator
+# Revalct Calculator
 
 ## About this project
+
+### Course
+UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!
+
 ### Details | Comments
 This project is my first project using React.
 The calculator was made following a course on Udemy but was a bit improved from the original version. 
