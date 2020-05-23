@@ -2,7 +2,7 @@
 
 ## About this project
 
-### Course
+### Related course
 UDEMY | THE COMPLETE FULL-STACK JAVASCRIPT COURSE!
 
 ### Details | Comments
